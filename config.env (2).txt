@@ -1,0 +1,11 @@
+# Remove this line before deploying
+_____REMOVE_THIS_LINE_____=True
+# REQUIRED CONFIG
+BOT_TOKEN = "6953651594:AAEICwDVIYftNzf47psFMszldsraUmdDt_I"                              # Require restart after changing it while bot running
+OWNER_ID = "809614790"                               # Require restart after changing it while bot running
+TELEGRAM_API = "24830912"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "a1a1775593531b90850b8b82e3b14940"                          # Require restart after changing it while bot running
+
+# OPTIONAL CONFIG
+
+DATABASE_URL = "mongodb+srv://parcel:malliga@cluster0.xoax6ur.mongodb.net/?retryWrites=true&w=majority"                           # Require restart after changing it while bot running
